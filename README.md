@@ -1,5 +1,5 @@
 # Conduct-a-security-audit
-as part of the certificate course of Google Cybersecurity Professional Certificate, i was tasked to conduct an internal security audit on a scenario based on a fictional company.
+as part of the certificate course of Google Cybersecurity Professional Certificate, i was tasked to conduct an internal security audit on a scenario based on a fictional company.                                                                                          
 Here is the story: 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
